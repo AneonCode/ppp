@@ -1,3 +1,7 @@
+## 对原项目进行修
+项目可集成到openwrt中或在Linux下直接使用，需要使用请自行编译
+
+
 This is the README file for ppp-2.4, a package which implements the
 Point-to-Point Protocol (PPP) to provide Internet connections over
 serial lines.
